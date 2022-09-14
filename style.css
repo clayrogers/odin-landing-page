@@ -158,3 +158,23 @@ button {
     align-self: flex-end;
     margin: 0px 20px;
 }
+
+.content3 {
+    background-color: #3882F6;
+    max-width: 1300px;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 50px 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content3 .text {
+    font-size: 22px;
+    font-weight: 1000;
+}
+
+.content3 .subtext {
+    font-size: 16px;
+}
