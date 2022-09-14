@@ -132,3 +132,29 @@ button {
     width: 300px;
     border-radius: 20px;
 }
+
+.content2 {
+    height: 500px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content2 .quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 0;
+    margin: 0px 20px;
+}
+
+.content2 .credit {
+    color: #1F2937;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 1000;
+    align-self: flex-end;
+    margin: 0px 20px;
+}
