@@ -1,1 +1,1 @@
-# odin-landing-page
+Create a landing page to exercise HTML and CSS abilities.
