@@ -113,6 +113,7 @@ button {
     padding: 10px 40px;
     margin: 10px 0px;
     border-radius: 8px;
+    border: 2px solid white;
     align-self: flex-start;
 }
 
